@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a third-year software engineering student at Chapman University.
+I'm a fourth-year software engineering student at Chapman University.
 Currently working on [Interchange](https://interchange.bchen.dev), a fast, simple iPhone app for college transit.
 
 Notable past projects:
