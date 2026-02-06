@@ -12,6 +12,7 @@ Notable past projects:
 Feel free to reach out if you have questions or want to collaborate!
 
 - [My personal website](https://bchen.dev)
+- [Substack](https://bchendev.substack.com)
 - [LinkedIn](https://linkedin.com/in/brendan-ch)
 - [me@bchen.dev](mailto:me@bchen.dev)
 
