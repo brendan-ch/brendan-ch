@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm a recently graduated software engineering student at Chapman University.
-I'm currently working on [Kaifang](https://github.com/brendan-ch/Kaifang), a Chinese learning workspace.
 
 Notable projects:
 
